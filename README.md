@@ -1,1 +1,1 @@
-# coronavirs.github.io
+# coronavirus.github.io
